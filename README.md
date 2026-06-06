@@ -19,6 +19,7 @@ Apasionado por el desarrollo de software, bases de datos y la construcción de s
 * CSS3
 * JavaScript
 * Php
+* Arquitectura MVC
 
 ---
 
