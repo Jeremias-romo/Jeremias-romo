@@ -10,7 +10,7 @@ Apasionado por el desarrollo de software, bases de datos y la construcción de s
 
 * Java
 * Java Swing
-* Maven
+* Python
 * MySQL
 * XAMPP
 * Git
@@ -18,7 +18,7 @@ Apasionado por el desarrollo de software, bases de datos y la construcción de s
 * HTML5
 * CSS3
 * JavaScript
-* Arquitectura MVC
+* Php
 
 ---
 
